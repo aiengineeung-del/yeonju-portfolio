@@ -3,7 +3,7 @@ Yeonju Kim's portfolio: validating time- and resource-waste problems with data a
 
 시간과 자원이 새는 문제를 찾아, 데이터와 AI로 검증하는 과정을 담은 포트폴리오 사이트입니다.
 
-사이트 보기: [<img width="818" height="733" alt="image" src="https://github.com/user-attachments/assets/bb90c422-8c57-4fac-80aa-b3384b5a343c" />]
+사이트 보기: https://aiengineeung-del.github.io/yeonju-portfolio/
 
 # 담긴 내용
 
